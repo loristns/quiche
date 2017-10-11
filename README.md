@@ -6,7 +6,7 @@
 Quiche is a simple and lightweight utility that could help you to **save computation time, networked queries**.
 At the moment, it's mostly a caching system for your Python functions.
 
-Just add the `Quiche.cached` to your functions and the result will come from the cache if a recent version of the result exists in it, otherwise your function will run like every time before. Look at example.py to get help.
+Just add the `@Quiche.cached` decorator to your functions and the result will come from the cache if a recent version of the result exists in it, otherwise your function will run like every time before. Look at example.py to get help.
 
 ## 🔨 Installation
 
