@@ -1,6 +1,6 @@
 # 🍕 Quiche
 ## Never get over queries limits anymore !
-[![Code Health](https://landscape.io/github/the-new-sky/quiche/master/landscape.svg?style=flat)](https://landscape.io/github/the-new-sky/quiche/master) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/the-new-sky/quiche/blob/master/LICENSE.md) 
+[![Code Health](https://landscape.io/github/the-new-sky/quiche/master/landscape.svg?style=flat)](https://landscape.io/github/the-new-sky/quiche/master) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/the-new-sky/quiche/blob/master/LICENSE.md) 
 
 
 Quiche is a simple and lightweight utility that could help you to **save computation time, networked queries**.
